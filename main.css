@@ -27,8 +27,10 @@ p {
 }
 p1 {
 		font-family: "Times New Roman", Times, serif;
+		font-weight: italic;
 }
 body {
-		background-color: lightblue;
-}
+		background-color:#33cccc;
+		border-style:groove;
+		border-width:8px;
 
