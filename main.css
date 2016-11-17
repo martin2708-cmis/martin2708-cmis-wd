@@ -28,7 +28,8 @@ p {
 		font-family: "Times New Roman", Times, serif;
 		font-size:25px;
 		font-weight: bold;
-		color:yellow;
+		color:#553300;
+		padding-left:200px
 		
 }
 p1 {
@@ -39,4 +40,5 @@ body {
 		background-color:#33cccc;
 		border-style:groove;
 		border-width:8px;
+		background-image: url(
 
