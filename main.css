@@ -18,16 +18,22 @@ View your index.html in the production server.
 */
 html {
 		font-family:arial;
-		color:#f0000f;
+		background-color:#000000;
+}
+h1 {
+		color:red;
+		font-weight:underline;
 }
 p {
 		font-family: "Times New Roman", Times, serif;
 		font-size:25px;
 		font-weight: bold;
+		color:yellow;
+		
 }
 p1 {
 		font-family: "Times New Roman", Times, serif;
-		font-weight: italic;
+		color:#3366ff;
 }
 body {
 		background-color:#33cccc;
