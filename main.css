@@ -1,5 +1,8 @@
 /*
 * 
+10 aquired -
+10 or more to go
+
 Create a new file called "main.css"
 Add a link element to the head of your index.html file
 <link rel="stylesheet" href="main.css" type="text/css">
@@ -22,23 +25,28 @@ html {
 }
 h1 {
 		color:red;
-		font-weight:underline;
+		text-decoration: underline solid black;
 }
 p {
 		font-family: "Times New Roman", Times, serif;
 		font-size:25px;
 		font-weight: bold;
 		color:#553300;
-		padding-left:200px
+		letter-spacing: normal;
+		letter-spacing: 10px;
 		
 }
 p1 {
 		font-family: "Times New Roman", Times, serif;
 		color:#3366ff;
+		text-shadow:1px 1px 1px #ff0000;
 }
 body {
 		background-color:#33cccc;
 		border-style:groove;
 		border-width:8px;
-		background-image: url(
+		padding-bottom:300px;
+}
+
+
 
