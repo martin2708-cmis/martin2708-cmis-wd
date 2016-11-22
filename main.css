@@ -20,12 +20,15 @@ Upload to the production server with sftp.
 View your index.html in the production server.
 */
 html {
-		font-family:arial;
+		font-family:Georgia, sans-serif;
 		background-color:#000000;
+		background-image:url("http://static1.squarespace.com/static/552a5cc4e4b059a56a050501/565f6b57e4b0d9b44ab87107/566024f5e4b0354e5b79dd24/1449141991793/NYCGifathon12.gif");
+		
 }
 h1 {
 		color:red;
 		text-decoration: underline solid black;
+		
 }
 p {
 		font-family: "Times New Roman", Times, serif;
@@ -34,19 +37,34 @@ p {
 		color:#553300;
 		letter-spacing: normal;
 		letter-spacing: 10px;
+		line-height: 50px
 		
 }
 p1 {
 		font-family: "Times New Roman", Times, serif;
 		color:#3366ff;
 		text-shadow:1px 1px 1px #ff0000;
+		line-height:130px
+}
+p2 {
+		color:yellow;
+		padding-bottom:30px
+		
+}
+br {
+		color:blue;	
 }
 body {
 		background-color:#33cccc;
 		border-style:groove;
 		border-width:8px;
-		padding-bottom:300px;
 }
+table, th, td {
+   border: 2px solid black;
+	width: 30px;
+	text-shadow:2px 2px 2px red;
+}
+	
 
 
 
