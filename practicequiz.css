@@ -1,7 +1,9 @@
+html {
+	font-family:arial;
+}
 h1 {
 	background-color:green;
 	color: yellow;
-	font-family:arial;
 }
 p {
 	color:blue;
@@ -9,4 +11,7 @@ p {
 h2 {
 	color:yellow;
 	background-color:purple;
+}
+h3 {
+	background-color:yellow;
 }
