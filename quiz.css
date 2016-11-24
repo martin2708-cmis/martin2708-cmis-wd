@@ -1,0 +1,41 @@
+html {
+	background-color:pink;
+}
+h1 {
+	color:red;
+	font-size:50px;
+	background-color:lightblue;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	border-bottom-width:5px
+}
+h2 {
+	background-color:blue;
+	color:white;
+}
+body {
+	border-left-style:dotted;
+	border-width:35px;
+	border-color:red;
+}
+p {
+	border-top-style:dotted;
+	color:blue;
+}
+header {
+	border-style:groove;
+	border-color:yellow;
+	border-width:10px;
+	font-size:15px;
+	background-color:pink;
+}
+footer {
+	color:blue;
+	font-size:25px;
+}
+h {
+	border-top-color:green;
+}
+h3 {
+	background-color:brown;
+}
