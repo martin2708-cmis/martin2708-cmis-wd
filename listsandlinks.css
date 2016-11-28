@@ -1,0 +1,14 @@
+html {
+}
+
+p1 {
+	font-weight:bold;
+	color:white;
+}
+
+p {
+	line-height:5px;
+	font-weight:underline;
+	color:blue;
+	border-style:solid;
+}
