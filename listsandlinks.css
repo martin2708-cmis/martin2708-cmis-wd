@@ -1,14 +1,15 @@
 html {
+	background-color:gray;
 }
-
-p1 {
-	font-weight:bold;
-	color:white;
-}
-
 p {
 	line-height:5px;
 	font-weight:underline;
 	color:blue;
-	border-style:solid;
+	font-style:oblique;
 }
+header {
+}
+nav {
+	border-style:groove;
+	border-width:15px;
+	background-color:white;
