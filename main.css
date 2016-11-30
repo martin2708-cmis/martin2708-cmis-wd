@@ -18,7 +18,7 @@
 17.	width: 30px;
 18.	text-align:left;
 19.	border-top: 5px solid black;
-20.
+20.	position:fixed;
 */	
 html {
 		font-family:Georgia, sans-serif;
@@ -38,19 +38,17 @@ h2 {
 		color:#553300;
 		letter-spacing: normal;
 		letter-spacing: 10px;
-		line-height: 50px
+		line-height: 50px;
 		
 }
-p1 {
+p {
 		font-family: "Times New Roman", Times, serif;
 		color:#3366ff;
 		text-shadow:1px 1px 1px #ff0000;
-		line-height:130px
-		overflow:auto;
 }
 p2 {
 		color:yellow;
-		padding-bottom:30px
+		padding-bottom:30px;
 		
 }
 br {
@@ -70,6 +68,8 @@ table, th, td {
 	border-top: 5px solid black;
 	font-style:oblique;
 }
-
+footer {
+	position:fixed;
+}
 
 

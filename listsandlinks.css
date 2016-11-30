@@ -1,5 +1,9 @@
 html {
-	background-color:gray;
+	background-color:blue;
+	background-image:url("http://www.oocities.org/viet_guy56/sfz_ryu08.gif");
+	background-repeat:no-repeat;
+	background-position: center top; 
+	
 }
 p {
 	line-height:5px;
