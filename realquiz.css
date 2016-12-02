@@ -1,0 +1,35 @@
+html {
+	background-color:red;
+}
+header {
+	background-color:blue;
+
+}
+header h1 {
+	color:yellow;
+}
+header p {
+	color:white;
+}
+main {
+	background-color:white;
+	color:black;
+}
+ol li {
+	border-style:dotted;
+}
+
+footer {
+	background-color:blue;
+	color:white;
+}
+nav {
+	color:yellow;
+}
+h1 {
+	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+	font-size: 37px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+}
