@@ -20,11 +20,13 @@ ol li {
 }
 
 footer {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	background-color:blue;
 	color:white;
 }
-nav {
+nav a {
 	color:yellow;
+	text-decoration: line-through;
 }
 h1 {
 	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
@@ -33,3 +35,6 @@ h1 {
 	font-variant: normal;
 	font-weight: 400;
 }
+ul li {
+	font-size:15px;
+	text-decoration: line-through;
