@@ -1,0 +1,19 @@
+Html {
+	font-style:italic;
+	padding: 110px;
+	background-color:lightblue;
+}
+header {
+	border-style:groove;
+	border-color:gray;
+	border-width:10px;
+}
+nav {
+	color:blue;
+	line-height:40px;
+}
+Article {
+	border-style:groove;
+	border-color:gray;
+	border-width:10px;
+}
