@@ -1,0 +1,24 @@
+html {
+	padding:100px;
+	background-color:lightgreen;
+}
+body {
+	border-style:solid;
+	border-width:5px;
+}
+footer {
+	color:green;
+	border-style:solid;
+}
+nav {
+	border-style:solid;
+	border-color:green;
+}
+main {
+	border-style:solid;
+	border-color:green;
+}
+header {
+	border-style:solid;
+	border-color:green;
+}
